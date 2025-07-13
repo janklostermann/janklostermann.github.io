@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title>Janklostermann | Chulapa Jekyll Theme starter pack</title>
+		<title>Janklostermann | </title>
 		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
 		<link>https://janklostermann.github.io/</link>
-		<description>Chulapa Jekyll Theme starter pack</description>
+		<description></description>
 		<language>en-US</language>
 		<copyright>(c) 2025, jk</copyright>	
-		<pubDate>Sun, 13 Jul 2025 20:29:42 +0000</pubDate>
-		<lastBuildDate>Sun, 13 Jul 2025 20:29:42 +0000</lastBuildDate>
+		<pubDate>Sun, 13 Jul 2025 20:35:40 +0000</pubDate>
+		<lastBuildDate>Sun, 13 Jul 2025 20:35:40 +0000</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="https://janklostermann.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		<image>
-			<title>Janklostermann | Chulapa Jekyll Theme starter pack</title>
+			<title>Janklostermann | </title>
 			<url></url>
 			<link>https://janklostermann.github.io/</link>
-			<description>Chulapa Jekyll Theme starter pack</description>
+			<description></description>
 		</image><item>
 			<title>Current skin</title>
 			<description>
