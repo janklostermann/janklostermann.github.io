@@ -5,6 +5,20 @@ header_type: hero
 subtitle: Starter pack
 ---
 
+
+# Scalable Data-Protecting AI Solutions
+
+Unlock the power of AI for your business — secure, efficient, and tailored to your needs.  
+From private on-premise deployments to scalable cloud solutions in German data centers, we deliver AI that fits your requirements and budget.
+
+**Seamless integration across all business processes:**  
+Our AI Agent Systems support Sales, Marketing, Service, Backoffice, Business Development, and Human Resources.
+
+**Ready to solve your business challenges with AI? [Contact us now](contact.md)!**
+
+
+
+
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
 Contains basic configuration to get you a site with:
