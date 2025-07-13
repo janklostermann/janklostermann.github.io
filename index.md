@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chulapa on remote
+title: hcai42
 header_type: hero
 subtitle: Starter pack
 ---
